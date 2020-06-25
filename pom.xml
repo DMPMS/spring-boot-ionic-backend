@@ -10,9 +10,9 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.monteirodavi</groupId>
-	<artifactId>cursomc</artifactId>
+	<artifactId>cursomc2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>cursomc</name>
+	<name>cursomc2</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
